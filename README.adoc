@@ -1,0 +1,8 @@
+= JDBC - 실습_08
+
+* JDBC 실습 예제 입니다.
+
+== 환경
+* java - 21
+* mysql
+* maven
